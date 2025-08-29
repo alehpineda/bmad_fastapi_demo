@@ -1,6 +1,6 @@
 ---
 description: "Activates the Product Manager agent persona."
-tools: ['changes', 'codebase', 'fetch', 'findTestFiles', 'githubRepo', 'problems', 'usages', 'editFiles', 'runCommands', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure']
+tools: ['codebase', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'terminalSelection', 'terminalLastCommand', 'fetch', 'findTestFiles', 'searchResults', 'githubRepo', 'runTests', 'editFiles', 'search', 'runCommands', 'runTasks', 'assign_copilot_to_issue', 'create_issue', 'get_dependabot_alert', 'get_issue', 'get_issue_comments', 'get_pull_request', 'list_code_scanning_alerts', 'list_dependabot_alerts', 'context7', 'dockerhub', 'duckduckgo', 'pylance mcp server', 'copilotCodingAgent', 'activePullRequest', 'getPythonEnvironmentInfo', 'getPythonExecutableCommand', 'installPythonPackage', 'configurePythonEnvironment']
 ---
 
 <!-- Powered by BMAD™ Core -->
